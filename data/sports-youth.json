@@ -1,0 +1,29 @@
+{
+  "objective": "Question and hold accountable the Ministry of Sports & Youth Affairs regarding Bihar cricket development, infrastructure, youth programs, and transparency in governance, with a goal to improve sports governance and opportunities in Bihar.",
+  "questions": [
+    "Provide copies of all utilization certificates (UCs) submitted by the Bihar Cricket Association (BCA) to the State Government for funds received for the redevelopment, modernization, or maintenance of Moin-ul-Haq Stadium from 2015 to 2025.",
+    "Provide the total amount of State Government grants, subsidies, land allotment, or financial assistance provided to the Bihar Cricket Association (BCA) and/or organizations working under it from 2015 to 2025, along with supporting documents.",
+    "Provide copies of inspection, audit, and physical progress reports submitted by any officer or authorized committee of the Department regarding construction/renovation work at Moin-ul-Haq Stadium from 2015 to present.",
+    "Provide copies of correspondence, letters, or complaints received by the Department regarding corruption, mismanagement, or irregularities in the Bihar Cricket Association (BCA) between 2020 and 2025, along with the 'Action Taken Report' for each.",
+    "Provide copies of the latest financial audit report of BCA available with the State Government.",
+    "Why has Bihar been left out of hosting international cricket matches despite significant cricketing potential, while smaller states like Jharkhand and Chhattisgarh have hosted high-profile ODIs and IPL matches?",
+    "What steps are being taken to develop youth cricket programs in rural areas of Bihar and improve talent identification at grassroots levels?",
+    "Why are players from Bihar rarely represented in IPL or national teams, and what measures are in place to improve scouting, coaching, and exposure for Bihar's young cricketers?",
+    "How does the Ministry plan to ensure transparency in Bihar Cricket Association’s selection processes, administrative decisions, and fund utilization?",
+    "What is the timeline and budget for developing grassroots cricket programs, stadium upgrades, and youth talent academies across Bihar?"
+  ],
+  "timeline": [
+    {"date": "2025-11-01", "action": "Compiled and submitted initial detailed report on Bihar cricket shortcomings to BCA and Ministry of Sports."},
+    {"date": "2025-11-05", "action": "Filed RTI requests seeking information on Bihar cricket infrastructure, stadium approvals, and fund utilization."},
+    {"date": "2025-11-10", "action": "Followed up with Ministry regarding RTI and requested timelines for response."},
+    {"date": "2025-11-15", "action": "Prepared evidence dossier highlighting corruption, stadium delays, lack of IPL representation, and player development gaps."},
+    {"date": "2025-11-20", "action": "Sent formal email attaching the comprehensive report calling for immediate reforms and transparency measures."},
+    {"date": "2025-11-25", "action": "Updated website section with real-time tracking of queries and submitted reports to ensure public accountability."}
+  ],
+  "replies": [
+    {"date": "2025-11-12", "type": "Acknowledgment Email", "link": "../assets/docs/BCA_acknowledgment.pdf"},
+    {"date": "2025-11-15", "type": "Detailed Report PDF", "link": "../assets/docs/Bihar_Cricket_Report.pdf"},
+    {"date": "2025-11-22", "type": "Follow-up Reminder Email", "link": "../assets/docs/BCA_followup.pdf"}
+  ],
+  "status": "Pending response from Bihar Cricket Association and Ministry of Sports. Continuous follow-up in progress; all submissions documented and publicly tracked on this platform."
+}
